@@ -396,3 +396,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+*.drawio
+/.$cache_invalidation.drawio.bkp
+/.$formula_calculation.drawio.bkp
